@@ -30,7 +30,7 @@ $$
 </div>
 <hr/>
 
-### Soy: Desarrollador full-stack & Matemático & Profesor
+### Desarrollador full-stack & Matemático & Profesor
 [![Website](https://img.shields.io/website?style=plastic&up_message=%21visita%20mi%20sitio%20web%21&url=https%3A%2F%2Fhararecmg.github.io%2FPortafolio-webapp%2F)](https://hararecmg.github.io/Portafolio-webapp/)
 
 <img width="350" height="auto" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hararecmg&layout=compact&theme=radical">
