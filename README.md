@@ -31,12 +31,12 @@ $$
 <hr/>
 
 ### Desarrollador full-stack & Matemático & Profesor
-[![Website](https://img.shields.io/website?style=plastic&up_message=%21visita%20mi%20sitio%20web%21&url=https%3A%2F%2Fhararecmg.github.io%2FPortafolio-webapp%2F)](https://hararecmg.github.io/Portafolio-webapp/)
+[![Website][shieldsIoLogoWebSite]][webSite]&nbsp;&nbsp;&nbsp;&nbsp;[<img alt="LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin]
 
 <img width="350" height="auto" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hararecmg&layout=compact&theme=radical">
 
-- Como *desarrollador* me dedico a crear aplicaciones web usando React y Angular, con características como testing, la metodología Redux, el consumo de API Rest, y el diseño responsivo (maquetación CSS, SASS).
-- Como *profesor*, a partir del año 2019 trabajé en la Facultad de Ciencias UNAM, y formé parte del Comité Estudiantil Metropolitano, donde también impartí cursos. Además por parte del Coloquio de Orientación Matemática de la UNAM, di la ponencia ['Sobre la Hipótesis de Riemann'](https://www.youtube.com/watch?v=Y1WpLrNTRyg&t=32s). Toda esa experiencia me proporcionó fuertes habilidades de comunicación.
+- **Como _desarrollador_** me dedico a crear aplicaciones web usando React y Angular, con características como testing, la metodología Redux, el consumo de API Rest, y el diseño responsivo (maquetación CSS, SASS).
+- **Como _profesor_**, a partir del año 2019 trabajé en la Facultad de Ciencias UNAM, y formé parte del Comité Estudiantil Metropolitano, donde también impartí cursos. Además por parte del Coloquio de Orientación Matemática de la UNAM, di la ponencia ['Sobre la Hipótesis de Riemann'](https://www.youtube.com/watch?v=Y1WpLrNTRyg&t=32s). Toda esa experiencia me proporcionó fuertes habilidades de comunicación.
 
 #
 <div align="center">
@@ -49,3 +49,8 @@ $$
 
 </div>
 <hr/>
+
+
+[shieldsIoLogoWebSite]: https://img.shields.io/website?style=plastic&up_message=%21visita%20mi%20sitio%20web%21&url=https%3A%2F%2Fhararecmg.github.io%2FPortafolio-webapp%2F
+[webSite]: https://hararecmg.github.io/Portafolio-webapp/
+[linkedin]: www.linkedin.com/in/hararec-medina-gonzález
