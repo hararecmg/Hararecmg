@@ -49,14 +49,6 @@ $$
 
 </div>
 <hr/>
-
-### Las tecnologías en las que estoy especializado son;
-
-<div display="flex" justify-content="space-evenly" align-items="center">
-<img margin="0" padding="0" flex-grow="1" flex-shrink="0" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" width="30" height="30" />
-<img margin="0" padding="0" flex-grow="1" flex-shrink="0" src="https://camo.githubusercontent.com/72e5df59529a42423d671ba4c02bfb327d917517bfff18595c5e5dc17a5abece/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f68746d6c352e737667" width="30" height="30" />
-<img margin="0" padding="0" flex-grow="1" flex-shrink="0" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/go.svg" width="30" height="30" />
-<div/>
   
 [shieldsIoLogoWebSite]: https://img.shields.io/website?style=plastic&up_message=%21visita%20mi%20sitio%20web%21&url=https%3A%2F%2Fhararecmg.github.io%2FPortafolio-webapp%2F
 [webSite]: https://hararecmg.github.io/Portafolio-webapp/
