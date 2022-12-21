@@ -31,13 +31,27 @@ $$
 </div>
 <hr/>
 
-### Soy desarrollador full-stack & matemático & profesor
 [![Website][shieldsIoLogoWebSite]][webSite]&nbsp;&nbsp;&nbsp;&nbsp;[<img alt="LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin]
 
-<img width="350" height="auto" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hararecmg&layout=compact&theme=radical">
+<!-- <img width="350" height="auto" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hararecmg&layout=compact&theme=radical"> -->
 
-- **Como _desarrollador_** me dedico a crear aplicaciones web usando React y Angular, con características como testing, la metodología Redux, el consumo de API Rest, y el diseño responsivo (maquetación CSS, SASS).
-- **Como _profesor_**, a partir del año 2019 trabajé en la Facultad de Ciencias UNAM, y formé parte del Comité Estudiantil Metropolitano, donde también impartí cursos. Además por parte del Coloquio de Orientación Matemática de la UNAM, di la ponencia ['Sobre la Hipótesis de Riemann'](https://www.youtube.com/watch?v=Y1WpLrNTRyg&t=32s). Toda esa experiencia me proporcionó fuertes habilidades de comunicación.
+## Sobre mí
+Soy un desarrollador full stack y de aplicaciones móviles con amplia experiencia en el desarrollo de soluciones tecnológicas, lo que me permite aportar valor a cualquier proyecto en el que participe. Mi formación en matemáticas me ha brindado un enfoque lógico y sistemático que me ha ayudado a resolver problemas complejos y a crear productos innovadores. Además, tengo una pasión por el trabajo y siempre estoy buscando nuevas oportunidades para aprender y crecer en mi campo. Me gusta trabajar en equipo y soy una persona muy proactiva y comprometida con mis proyectos. Estoy constantemente actualizado en las últimas tendencias y tecnologías en el mundo del desarrollo de software.
+
+## Habilidades
+- Desarrollo web: HTML, CSS, SCSS, JavaScript, React, Angular, Node.js, Express, .NET Core, MySQL
+- Desarrollo móvil: Swift, Kotlin, Java, Dart, React Native, Flutter, Ionic, Android Studio, Xcode
+- Otros: Git, GitHub, Docker, metodologías ágiles (Scrum, Kanban)
+## Proyectos destacados
+- Aplicación móvil de seguimiento de actividad física: Desarrollé una aplicación móvil para Android y iOS que permite a los usuarios llevar un registro de su actividad física y hacer seguimiento de sus metas de entrenamiento. Utilicé React Native para el desarrollo de la aplicación y integré funcionalidades como el seguimiento de rutas de GPS y la integración con servicios de terceros como Google Fit.
+- Sitio web de venta de productos artesanales: Diseñé y desarrollé un sitio web para una pequeña empresa de productos artesanales utilizando PHP, MySQL y una plantilla de diseño responsive. Integré un sistema de carrito de compras y un panel de administración para que la empresa pudiera gestionar sus productos y pedidos de manera eficiente.
+- Aplicación de seguimiento de dieta y nutrición: Desarrollé una aplicación móvil para Android y iOS que permite a los usuarios llevar un registro de su consumo de alimentos y hacer seguimiento de sus objetivos nutricionales. Utilicé React Native para el desarrollo de la aplicación y integré funcionalidades como la integración con bases de datos de alimentos y la opción de escanear códigos de barras para facilitar el registro de alimentos.
+- Plataforma de venta en línea de ropa: Diseñé y desarrollé una plataforma de venta en línea para una pequeña empresa de ropa utilizando PHP, MySQL y una plantilla de diseño responsive. Integré un sistema de carrito de compras y un panel de administración para que la empresa pudiera gestionar sus productos y pedidos de manera eficiente.
+
+## Contacto
+
+Si estás interesado en contratar mis servicios o simplemente quieres saber más sobre mi trabajo, no dudes en ponerte en contacto conmigo a través de mi correo electrónico o de mi perfil de LinkedIn. ¡Estaré encantado de hablar contigo! ¡Me encantaría tener la oportunidad de contribuir a su éxito!
+
 
 <hr/>
 <div align="center">
