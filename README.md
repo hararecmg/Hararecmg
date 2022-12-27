@@ -47,7 +47,7 @@ $$
 - Aplicación de seguimiento de dieta y nutrición: Desarrollé una aplicación móvil para Android y iOS que permite a los usuarios llevar un registro de su consumo de alimentos y hacer seguimiento de sus objetivos nutricionales. Utilicé React Native para el desarrollo de la aplicación y integré funcionalidades como la integración con bases de datos de alimentos y la opción de escanear códigos de barras para facilitar el registro de alimentos.
 - Plataforma de venta en línea de ropa: Diseñé y desarrollé una plataforma de venta en línea para una pequeña empresa de ropa utilizando PHP, MySQL y una plantilla de diseño responsive. Integré un sistema de carrito de compras y un panel de administración para que la empresa pudiera gestionar sus productos y pedidos de manera eficiente. -->
 
-## 📧 ¡Contactame!
+## 📧 Contacto
 
 Si estás interesado en mis servicios o simplemente quieres saber más sobre mi trabajo, no dudes en ponerte en contacto conmigo a través de mi [correo electrónico](mailto:hararecmedina@gmail.com) o de mi perfil de [LinkedIn][linkedin]. ¡Estaré encantado de hablar contigo! ¡Me encantaría tener la oportunidad de contribuir a su éxito!
 
