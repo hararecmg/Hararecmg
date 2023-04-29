@@ -23,7 +23,7 @@ Soy un desarrollador full stack que ama su trabajo, y además tengo una formaci�
 ## 👌 Mis habilidades
 - HTML, CSS, SCSS, JavaScript, Typescript, React, Angular, Node.js, Express, Python<!-- , .NET Core -->, MySQL
 <!-- - Desarrollo móvil: Swift, Kotlin, Java, Dart, React Native, Flutter, Ionic, Android Studio, Xcode -->
-- Otros: Git, GitHub, <!-- Docker, --> metodologías ágiles (Scrum, Kanban)
+- Otros: Git, GitHub, Figma,<!-- Docker, --> metodologías ágiles (Scrum, Kanban)
 
 <div display="flex" align="center" justify-content="space-evenly" align-items="center">
 <!-- <img margin="0" padding="0" flex-grow="1" flex-shrink="0" src="https://camo.githubusercontent.com/ddab19cf066e0086c8766d3fd2f5cf0e17f41fbb728a1c2b475848ab9266f58a/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f646172742e737667" width="30" height="30" /> -->
@@ -52,7 +52,7 @@ Soy un desarrollador full stack que ama su trabajo, y además tengo una formaci�
 <!-- <img margin="0" padding="0" flex-grow="1" flex-shrink="0" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Android_Studio_Icon_3.6.svg" width="50" height="35" /> -->
 <!-- <img margin="0" padding="0" flex-grow="1" flex-shrink="0" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" width="50" height="35" /> -->
 <img margin="0" padding="0" flex-grow="1" flex-shrink="0" src="https://camo.githubusercontent.com/49bf68737c87387f9727b07f8c37d8024fa38bb8add33c08abc4fda283978a5e/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f636f6e64612e737667" width="50" height="35" />
-<img margin="0" padding="0" flex-grow="1" flex-shrink="0" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="50" height="35" />
+<img margin="0" padding="0" flex-grow="1" flex-shrink="0" src="https://camo.githubusercontent.com/ed93c2b000a76ceaad1503e7eb9356591b885227e82a36a005b9d3498b303ba5/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6669676d612f6669676d612d69636f6e2e737667" width="50" height="35" />
 <!-- <img margin="0" padding="0" flex-grow="1" flex-shrink="0" src="https://camo.githubusercontent.com/8224804e28d6c0e0ff71792abdd5c129578f42d497bba17734f2e21b1cf134e6/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6170706c652e737667" width="30" height="30" /> -->
 <!-- <img margin="0" padding="0" flex-grow="1" flex-shrink="0" src="https://camo.githubusercontent.com/875b2967090ac970937698e92e1bfeefdc6168b9afb428aabfe321e19d549d74/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e75782e737667" width="30" height="30" /> -->
 <!-- <img margin="0" padding="0" flex-grow="1" flex-shrink="0" src="https://camo.githubusercontent.com/060acf7e46293144e29fca9e750d2d73af82c51bcb2d7340eb3ff24e9e03c6f0/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f64656269616e2e737667" width="30" height="30" /> -->
