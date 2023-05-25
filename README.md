@@ -21,7 +21,7 @@ Soy un desarrollador full stack que ama su trabajo, y además tengo una formaci�
 <hr/>
 
 ## 👌 Mis habilidades
-- HTML, CSS, SCSS, JavaScript, Typescript, React, Angular, Node.js, Express, Python<!-- , .NET Core -->, MySQL
+- HTML, CSS, SCSS, JavaScript, Typescript, Angular, React, React Native, Node.js, Express, Python<!-- , .NET Core -->, Docker, SQL
 <!-- - Desarrollo móvil: Swift, Kotlin, Java, Dart, React Native, Flutter, Ionic, Android Studio, Xcode -->
 - Otros: Git, GitHub, Figma,<!-- Docker, --> metodologías ágiles (Scrum, Kanban)
 
@@ -43,6 +43,7 @@ Soy un desarrollador full stack que ama su trabajo, y además tengo una formaci�
 <img margin="0" padding="0" flex-grow="1" flex-shrink="0" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" width="35" height="35" />
 <img margin="0" padding="0" flex-grow="1" flex-shrink="0" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="35" height="30" />
 <!-- <img margin="0" padding="0" flex-grow="1" flex-shrink="0" src="https://camo.githubusercontent.com/a870803f30db1d15495072fa9e946a7fa6a6fc1a47fe12324aaf7509c410fc4a/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6a6176612e737667" width="30" height="30" /> -->
+<img margin="0" padding="0" flex-grow="1" flex-shrink="0" src="https://camo.githubusercontent.com/b9279edfece526123a96af67ea002acdd47e84e5ad05126faa08ab3332f8a9ef/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f646f636b65722e737667" width="30" height="30" />
 <!-- <img margin="0" padding="0" flex-grow="1" flex-shrink="0" src="https://cdn.cdnlogo.com/logos/c/27/c.svg" width="30" height="30" /> -->
 <!-- <img margin="0" padding="0" flex-grow="1" flex-shrink="0" src="https://cdn.worldvectorlogo.com/logos/golang-gopher.svg" width="35" height="35" /> -->
 <img margin="0" padding="0" flex-grow="1" flex-shrink="0" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" width="30" height="30" />
@@ -59,7 +60,7 @@ Soy un desarrollador full stack que ama su trabajo, y además tengo una formaci�
 <!-- <img margin="0" padding="0" flex-grow="1" flex-shrink="0" src="https://camo.githubusercontent.com/05eece38536aac5c8437e2cb46362e545443a80922c5e28463530726a6d186ac/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f77696e646f77732e737667" width="50" height="35" /> -->
 <div/>
 
-- 📚 Además estoy aprendiendo: React Native, Django Rest, Docker
+- 📚 Además estoy aprendiendo: Django Rest-framework, Golang, Flutter, Machine Learning, Deep Learning
 
 <hr/>
 
